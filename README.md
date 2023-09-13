@@ -1,4 +1,4 @@
-[# Image-Processing]
+[####### Image-Processing]
 [#Project 1: Braille-Translator]
 Braille is a system of raised dots that can be read by touch and is used by visually impaired people to read and write. Converting an image of Braille to text can be a time-consuming and error-prone task. However, a solution has been developed that can automate this process with high accuracy. This solution uses several image processing techniques, including Gaussian blur, thresholding, erosion, and connected component analysis (CCA), to detect and recognize individual Braille characters. A clustering algorithm is then applied to convert each character into a 6-character string, representing a Braille unit. Finally, post-processing steps, including key creation and enhancement, are used to ensure accurate translation. This solution has the potential to make digital information more accessible to visually impaired individuals and improve their quality of life. 
 
