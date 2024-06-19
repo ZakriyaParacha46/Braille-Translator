@@ -22,5 +22,5 @@ Each Braille character is represented by a 3x2 grid of dots, where a dot can eit
 ![image](https://github.com/ZakriyaParacha46/Image-Processing/assets/82748498/9ea4f94e-f7d1-452e-ab30-2460b033f182)
 
 
-Reference: [braille-language-translator](https://www.zakriyaparacha.com/projects/braille-language-translator)
+Reference: [braille-language-translator](https://www.zakriyaparacha.com/projects_1/braille-language-translator)
 
